@@ -1,8 +1,8 @@
 from Credentials import *
 import requests
 from Credentials import Credentials
-from languages import *
 from TranslateResults import TranslateResults
+from Languages import *
 
 
 def send(credentials, source_language, target_language, text):
