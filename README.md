@@ -2,8 +2,8 @@
 A naver Translate API Client
 
 ### Installation
-Napit, short for 'Naver API Translate' is a tool to easily access the naver papago translator api. 
-You can install this project with pip by running the command below.
+Napit, short for 'Naver API Translate' is a client programmed with python that allows you to easily access the naver papago translator api. 
+You can install this project with pypi by running the command below.
 ```
 pip install napit
 ```
