@@ -1,6 +1,9 @@
 # Napit
 네이버 파파고 통역 API 클라이언트
 
+### 다른 언어
+- [English](https://github.com/dolphin2410/napit/blob/main/README.md)
+
 ### 설치
 'Naver API Translate'의 줄임말인 Napit은 쉽게 파파고 통역 API에 접근하는 것을 돕기 위한 파이썬으로 프로그래밍된 REST 클라이언트 입니다.
 아래 명령어를 입력해 PYPI를 통해 다운로드 받으실 수 있습니다.
