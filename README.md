@@ -2,7 +2,7 @@
 A naver Translate API Client
 
 ### Other Languages
-- [Korean](https://github.com/dolphin2410/napit/blob/main/README_KR.md)
+- [한국어](https://github.com/dolphin2410/napit/blob/main/README_KR.md)
 
 ### Installation
 Napit, short for 'Naver API Translate' is a client programmed with python that allows you to easily access the naver papago translator api. 
